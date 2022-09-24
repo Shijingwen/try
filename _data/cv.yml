@@ -36,19 +36,19 @@
       institution: CSE Department, Michigan State University, Michigan, US.
       year: 2019 - present
       description:
-        - Study 3GPP 4G/5G standards and find vulnerabilities in Radio Access Network and IMS Core Network. Launch proof-of-concept attacks on operators and software-defined radio.
+        - Study 3GPP LTE(4G)/NR(5G) Standards,  standards and find vulnerabilities in Radio Access Network and IMS Core Network. Launch proof-of-concept attacks on operators and software-defined radio.
 
     - title: Research Intern
       institution: Los Alamos National Lab, California, US.
       year: 2021
       description:
-        - Built a simulation testbed of cyber-physical system using Julia and generated dataset. Developed learning framework to infer privacy of the cyber-physical system. Finished writing related sections in the paper. 
+        - Built a simulation testbed of the cyber-physical system using Julia and generated a dataset. Developed a learning framework to infer the privacy of the cyber-physical system. Wrote the relevant part of the thesis. 
 
     - title: Research Intern
       institution: Alibaba, Hangzhou, China.
       year: 2019
       description:
-        - Developed a robust deep learning model for traffic prediction based on distributed monitoring system of Alibaba cloud. Developed efficient algorithms for abnormal machine detection in cluster with thousands of machines. Finished one paper and submitted two patents for the company.
+        - Developed a robust deep learning model for traffic prediction based on distributed monitoring system of Alibaba cloud. Developed efficient algorithms for abnormal machine detection in clusters with thousands of machines. Wrote one paper and submitted two patents for the company.
 
 
 - title: Scholarships and Honors
