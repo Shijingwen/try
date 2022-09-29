@@ -16,4 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Jingwen is a Ph.D. Student at MSU CS Department, working with Prof. Guanhua Tu. She received her Master degree from University of Chinese Academy of Sciences. Before that, she received her B.S. degree from Hunan University. She is broadly interested in Network and Security, Wireless Network, Cloud Computing, AI for Distributed System.
+Jingwen is a Ph.D. Student at MSU CSE Department, working with Prof. Guanhua Tu. She received her Master degree from University of Chinese Academy of Sciences. Before that, she received her B.S. degree from Hunan University. She is broadly interested in Network and Security, Wireless Network, Cloud Computing, AI for Distributed System.
