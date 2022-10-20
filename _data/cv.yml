@@ -11,13 +11,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: Phd Student
+    - title: Ph.D.
       year: 2024
       institution: Michigan State University, Michigan, U.S.
       description:
         - Computer Science and Engineering
 
-    - title: Master
+    - title: M.S.
       institution: University of Chinese Academy of Sciences
       year: 2019
       description:
@@ -29,24 +29,24 @@
       description:
         - Information Security
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research/Teaching Assistant
-      institution: CSE Department, Michigan State University, Michigan, US.
-      year: 2024
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Research/Teaching Assistant
+#       institution: CSE Department, Michigan State University, Michigan, US.
+#       year: 2024
       # description:
       #   - Study 3GPP LTE(4G)/NR(5G) Standards,  standards and find vulnerabilities in Radio Access Network and IMS Core Network. Launch proof-of-concept attacks on operators and software-defined radio.
 
-    - title: Research Intern
-      institution: Los Alamos National Lab, California, US.
-      year: 2021
+    # - title: Research Intern
+    #   institution: Los Alamos National Lab, California, US.
+    #   year: 2021
       # description:
       #   - Built a simulation testbed of the cyber-physical system using Julia and generated a dataset. Developed a learning framework to infer the privacy of the cyber-physical system. Wrote the relevant part of the thesis. 
 
-    - title: Research Intern
-      institution: Alibaba, Hangzhou, China.
-      year: 2019
+    # - title: Research Intern
+    #   institution: Alibaba, Hangzhou, China.
+    #   year: 2019
       # description:
       #   - Developed a robust deep learning model for traffic prediction based on distributed monitoring system of Alibaba cloud. Developed efficient algorithms for abnormal machine detection in clusters with thousands of machines. Wrote one paper and submitted two patents for the company.
 
@@ -56,53 +56,53 @@
   contents: 
     - year: 2022
       items: 
-        - Graduate Summer Fellowship
+        - Graduate Summer Fellowship (MSU CSE Department)
     - year: 2020
       items: 
-        - Graduate Summer Fellowship
+        - Graduate Summer Fellowship (MSU CSE Department)
     - year: 2017
       items: 
-        - University of Chinese Academy of Sciences Excellent Student Cadre
+        - Excellent Student Cadre (University of Chinese Academy of Sciences)
     - year: 2017
       items: 
-        - University of Chinese Academy of Sciences First-Class Scholarship
+        - First-Class Scholarship (University of Chinese Academy of Sciences)
     - year: 2016
       items: 
-        - Graduated with Hornor(Summa Cum Laude eq.)
+        - Graduated with Hornor, Summa Cum Laude eq. (Hunan University, Department of Education of the Hunan Province )
     - year: 2015
       items: 
-        - National Encouragement Scholarship
+        - National Encouragement Scholarship (Hunan University, Department of Education of the Hunan Province )
     - year: 2014
       items: 
-        - Hunan University Excellent Student Cadre
+        - Excellent Student Cadre (Hunan University)
     - year: 2014
       items: 
-        - Hunan University First-Class Scholarship
+        - Hunan University First-Class Scholarship (Hunan University)
     - year: 2013
       items: 
-        - Hunan University First-Class Scholarship
+        - Hunan University First-Class Scholarship (Hunan University)
 
 - title: Awards
   type: time_table
   contents: 
     - year: 2017
       items: 
-        - Google Girl Hackathon in Beijing, Best Practical Award
+        - Google Girl Hackathon in Beijing, Best Practical Award (Google)
     - year: 2016
       items: 
-        - Hunan University Excellent Graduation Design Award
+        - Hunan University Excellent Graduation Design Award (Hunan University)
     - year: 2016
       items: 
-        - First Prize of National Students Innovation Training Program
+        - First Prize of National Students Innovation Training Program (Hunan University)
     - year: 2015
       items: 
-        - American Mathematical Contest in Modeling (MCM), Honorable Mention
+        - American Mathematical Contest in Modeling (MCM), Honorable Mention (Hunan University)
     - year: 2014
       items: 
-        -  CTF of ZheJiang Province WenDing Cup, Third Prize 
+        -  CTF of ZheJiang Province WenDing Cup, Third Prize (Department of Education of the Zhejiang Province)
     - year: 2014
       items: 
-        - The Robocup China Open, First Prize
+        - The RoboCup China Open, First Prize (Chinese RoboCup Committee)
 
 
 # - title: Academic Interests

@@ -73,7 +73,7 @@ twitter_username: # your Twitter handle
 linkedin_username: jingwen-shi-807178156 # your LinkedIn user name www.linkedin.com/in/jingwen-shi-807178156
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-orcid_id: 0000-0002-9635-7551 # your ORCID ID
+orcid_id: # 0000-0002-9635-7551 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -89,7 +89,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: jingwen5201 # your instagram id
+instagram_id:  # jingwen5201 your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 

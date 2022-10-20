@@ -2,15 +2,14 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
 CSE476 Mobile Application Development\\
 Teaching Assistant\\
-2020, 2021, 2022 Fall Semester\\
-➢ Work in resource sensitive and resolution variant environments.\\
+2020 Fall, 2021 Fall, 2022 Fall\\
 ➢ Develop applications with location awareness and hardware sensors.\\
 ➢ Understand the use of a mobile device API.\\
 ➢ Develop applications in a client-server environment.
@@ -19,11 +18,11 @@ Teaching Assistant\\
 
 CSE425 Intro to Computer Security\\
 Teaching Assistant\\
-2021 Spring Semester\\
-➢  Computer security technology and principles (cryptography, authentication, access Control, database Security, DoS, malicious software, intrusion detection, firewall, etc.).\\
-➢ Software security and trusted Systems (buffer overflow, software security operating system security, etc.).\\
-➢  Network security (internet security protocols, authentication app, etc.).\\
-➢ State-of-the-art security research.
+2021 Spring\\
+➢  Computer security technologies and principles (cryptography, authentication, access control, database security, DoS, malicious software, intrusion detection, firewall, etc.).\\
+➢ Software security and trusted systems (buffer overflow, software security, operating system security, etc.).\\
+➢  Network security (internet security protocols, authentication applications, etc.).\\
+➢ State-of-the-art security researches.
 
 
 
