@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://msu.edu/'>Michigan State University</a>. East Lansing, MI 48824.
-
+subtitle: Michigan State University, East Lansing, MI 48824.
+# <a href='https://msu.edu/'>Michigan State University</a>.
 profile:
   align: right
   image: prof_pic.jpg
