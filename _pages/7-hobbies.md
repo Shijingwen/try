@@ -29,5 +29,5 @@ I love cooking, house plants, tennis, badminton, hiking, jogging and puzzles :he
 <span style="color:LightSalmon"> <b> Music Robot Bunny - Nov 2022  </b></span>
 <img src="/assets/img/bunny.jpeg" width="600">
 
-<span style="color:DimGray"> <b> Music Robot Explorer - Nov 2023  </b></span>
+<span style="color:MistyRose"> <b> Music Robot Explorer - Nov 2023  </b></span>
 <img src="/assets/img/explorer.jpeg" width="600">
