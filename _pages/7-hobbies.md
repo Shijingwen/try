@@ -7,27 +7,27 @@ nav: true
 nav_order: 6
 ---
 
-I love cooking, house plants, tennis, badminton and puzzles :heart: \\
+I love cooking, house plants, tennis, badminton, hiking, jogging and puzzles :heart:
 
 <span style="color:pink"> <b> Welcome to my puzzle gallery :) ! </b></span>
 
 <span style="color:pink"> <b> Baby yoda 500 pieces puzzle - Jan 27 2023  </b></span>
-<img src="/assets/img/yoda.jpeg" width="1600">
+<img src="/assets/img/yoda.jpeg" width="600">
 
 <span style="color:pink"> <b> Thundering Wings Figure Mecha Model - Jan 13 2023 </b></span>
-<img src="/assets/img/thundering_wings.jpeg" width="1600">
+<img src="/assets/img/thundering_wings.jpeg" width="600">
 
 <span style="color:pink"> <b> Hera Masquerade Mask - Jan 2 2023 </b></span>
-<img src="/assets/img/hera.jpeg" width="1600">
+<img src="/assets/img/hera.jpeg" width="600">
 
 <span style="color:pink"> <b> Aquarius Wish Cranes Model - Dec 2022 </b></span>
-<img src="/assets/img/aquarius_crane.jpeg" width="1600">
+<img src="/assets/img/aquarius_crane.jpeg" width="600">
 
 <span style="color:pink"> <b> Peach Blossom Wish Cranes Model - Dec 2022  </b></span>
-<img src="/assets/img/peach_crane.jpeg" width="1600">
+<img src="/assets/img/peach_crane.jpeg" width="600">
 
 <span style="color:pink"> <b> Music Robot Bunny - Nov 2022  </b></span>
-<img src="/assets/img/bunny.jpeg" width="1600">
+<img src="/assets/img/bunny.jpeg" width="600">
 
 <span style="color:pink"> <b> Music Robot Explorer - Nov 2023  </b></span>
-<img src="/assets/img/explorer.jpeg" width="1600">
+<img src="/assets/img/explorer.jpeg" width="600">
