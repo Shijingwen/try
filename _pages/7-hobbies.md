@@ -9,9 +9,9 @@ nav_order: 6
 
 I love cooking, house plants, tennis, badminton, hiking, jogging and puzzles :heart:
 
-<span style="color:HotPink"> <b> Welcome to my puzzle gallery :) ! </b></span>
+<span style="color:LightPink"> <b> Welcome to my puzzle gallery :) ! </b></span>
 
-<span style="color:Green"> <b> Baby yoda 500 pieces puzzle - Jan 27 2023  </b></span>
+<span style="color:LightGreen"> <b> Baby yoda 500 pieces puzzle - Jan 27 2023  </b></span>
 <img src="/assets/img/yoda.jpeg" width="600">
 
 <span style="color:Crimson"> <b> Thundering Wings Figure Mecha Model - Jan 13 2023 </b></span>
