@@ -8,7 +8,8 @@ nav_order: 6
 ---
 
 I love cooking, house plants, tennis, badminton and puzzles :heart: \\
-Welcome to my puzzle gallery :) ! \\
+Welcome to my puzzle gallery :) ! 
+
 
 Baby yoda 3D puzzle 500 pieces - Jan 27 2023 \\
 ![Baby yoda 3D puzzle 500 pieces - Jan 27 2023](/assets/img/yoda.jpeg)
