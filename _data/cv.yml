@@ -116,8 +116,3 @@
 #       items:
 #         - Description 1.
 #         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Cooking, House Plants, etc.
