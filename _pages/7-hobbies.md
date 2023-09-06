@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /hobbies/
-title: Hobbies
+permalink: /Gallery/
+title: Gallery
 description:
 nav: true
 nav_order: 6
 ---
 
-I love cooking, house plants, tennis, badminton, hiking, jogging and puzzles :heart:
+Welcome to my Puzzle Gallery!
 
 <span style="color:black"> <b> Welcome to my puzzle gallery :) ! </b></span>
 
