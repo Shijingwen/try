@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 \\
 \\
-Jingwen is a Ph.D. student at MSU CSE Department, working with Prof.[Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). She received her Master's degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/). Before that, she received her Bachelor's degree from [Hunan University](http://www-en.hnu.edu.cn/index.htm). She is broadly interested in 5G/4G Mobile Network, Security, Distributed Systems and AI.
+Jingwen is a Ph.D. candidate at MSU CSE Department, working with Prof.[Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). She received her Master's degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/). Before that, she received her Bachelor's degree from [Hunan University](http://www-en.hnu.edu.cn/index.htm). She is broadly interested in Mobile Network, Security, Distributed Systems and AI.
