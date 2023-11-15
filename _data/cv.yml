@@ -54,6 +54,12 @@
 - title: Scholarships and Honors
   type: time_table
   contents: 
+    - year: 2023
+      items: 
+        - NSF Student Travel Grant for Communications and Network Security (CNS) 2023
+    - year: 2023
+      items: 
+        - WiCyS Security Training Scholarship
     - year: 2022
       items: 
         - Graduate Summer Fellowship (MSU CSE Department)
