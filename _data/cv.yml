@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jingwen Shi
     - name: Email
-      value: shijingw@msu.edu
+      value: shijingw at msu.edu
     - name: Languages
       value: English, Chinese
 
@@ -32,17 +32,17 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research/Teaching Assistant
-      institution: CSE Department, Michigan State University, Michigan, US.
+    - title: Senior Associate Student Research Intern
+      institution: AT&T Lab, New Jersey, U.S.
       year: 2024
       description:
-        - Study 3GPP LTE(4G)/NR(5G) Standards,  standards and find vulnerabilities in Radio Access Network and IMS Core Network. Launch proof-of-concept attacks on operators and software-defined radio.
- 
+        - Intelligent Traffic Monitoring in 5G/4G IoT Network. Developed an AI-based framework for traffic analysis and anomaly detection in 5G/4G core network. Applied ML, statistics and signal processing.
+
     - title: Research Intern
-      institution: Los Alamos National Lab, California, US.
+      institution: Los Alamos National Lab, California, U.S.
       year: 2021
       description:
-        - Developed a machine learning approach to re-construct a black-box cyber-physical system
+        - Developed a machine learning approach to re-construct a black-box cyber-physical system.
  
     - title: Research Intern
       institution: Alibaba, Hangzhou, China.
@@ -50,6 +50,11 @@
       description:
         - Developed a robust traffic prediction and uncertainty estimation model for resource allocation in cloud. Developed an anomaly detection framework for virtual machines failure in cloud.
 
+    - title: Research/Teaching Assistant
+      institution: CSE Department, Michigan State University, Michigan, US.
+      year: 2019-2024
+      description:
+        - Study 3GPP LTE(4G)/NR(5G) Standards,  standards and find vulnerabilities in Radio Access Network and IMS Core Network. Launch proof-of-concept attacks on operators and software-defined radio.
 
 - title: Scholarships and Honors
   type: time_table

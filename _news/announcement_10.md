@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-2-27 07:59:00-0400
+date: 2024-9-3 07:59:00-0400
 inline: true
 ---
 
-My first author paper is accepted by Mobicom 2024. Dear friends, I look forward to seeing you in Washington!
+I’m excited o share that I’ve been selected to participate in the Harvard  SEAS Research and Academic Exchange program. A special thanks to Dr. Minlan Yu for hosting me!
